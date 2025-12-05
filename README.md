@@ -2,6 +2,8 @@ SmartLibrary – Java + SQLite Kütüphane Yönetim Sistemi
 
 SmartLibrary, Java ile geliştirilmiş basit bir konsol tabanlı kütüphane yönetim sistemidir.
 Proje kapsamında OOP prensipleri, JDBC kullanımı, SQLite veri tabanı bağlantısı ve CRUD işlemleri uygulanmıştır.
+
+
 🎯Özellikler
 
 📚 Kitap ekleme, listeleme, güncelleme, silme
@@ -53,6 +55,4 @@ SmartLibraryApp.java dosyasını çalıştırın.
 
 Uygulama açıldığında konsolda çıkan menü üzerinden kitap, öğrenci ve ödünç işlemlerini yapabilirsiniz.
 
-👤 Geliştirici
 
-Nazey Gökdemir
